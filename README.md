@@ -10,7 +10,7 @@ LoongArch汇编教学系统
 
 ## 项目描述
 
-[Mars](http://courses.missouristate.edu/kenvollmar/mars/)是一个轻量级的交互式开发环境（IDE），用于使用MIPS汇编语言进行编程，被设计来配合Patterson & Hennessy的计算机组成与设计课程教学。国内也有不少高校用它来进行组成原理或者汇编教学。本项目的目标是为其增添LoongArch架构支持。
+[Mars](http://courses.missouristate.edu/kenvollmar/mars/)是一个轻量级的交互式开发环境（IDE），用于使用MIPS汇编语言进行编程，被设计来配合Patterson & Hennessy的计算机组成与设计课程教学。国内也有不少高校用它来进行组成原理或者汇编教学。本项目的目标是为其增添LoongArch架构支持。当然，也鼓励用其他自己熟悉的语言和平台实现类似功能。
 
 Mar提供源代码，用Java编写。
 
