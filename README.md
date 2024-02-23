@@ -45,6 +45,7 @@ GPL V3.0.
 ## 参考资源
 
 * [Mars模拟器](http://courses.missouristate.edu/kenvollmar/mars/)。官方网站，包含程序下载（含源码）以及特性介绍等信息。
+* [venus RISCV模拟器](https://github.com/61c-teach/venus)。一个类似的RISCV指令模拟器。
 * [LoongArch docs](https://github.com/loongson/LoongArch-Documentation)。LoongArch相关文档，包括架构手册，ABI, 芯片手册等。
 * [LoongArch汇编手册](https://github.com/loongson/la-asm-manual)
 
